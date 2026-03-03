@@ -1,0 +1,5 @@
+venv/
+dataset/
+*.h5
+*.pkl
+__pycache__/
